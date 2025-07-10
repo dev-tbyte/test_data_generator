@@ -10,7 +10,7 @@ venv/
 .env
 build/
 dist/
-
+.pyarmor/
 
 # FastAPI/Uvicorn
 .uvicorn/
